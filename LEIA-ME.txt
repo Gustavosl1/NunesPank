@@ -1,0 +1,20 @@
+NUNESPANK — SITE INSTITUCIONAL
+
+Como visualizar:
+1. Extraia a pasta NunesPank.
+2. Abra a pasta no VS Code.
+3. Abra index.html no navegador ou use a extensão Live Server.
+
+Arquivos:
+- index.html: estrutura do site
+- style.css: estilos, identidade visual e responsividade
+- script.js: menu, animações, galeria, FAQ e WhatsApp
+- assets/logo-np.svg: logo original enviada pelo cliente
+- assets/banner-soldagem.png: imagem local criada para o banner
+
+Antes de publicar:
+- No arquivo script.js, substitua WHATSAPP_NUMBER pelo telefone real no formato 55 + DDD + número.
+- Substitua os depoimentos de exemplo por avaliações verdadeiras autorizadas.
+- Troque as imagens ilustrativas da galeria pelas fotos reais dos projetos.
+- Atualize localização e Instagram.
+- O site usa Google Fonts e Font Awesome por CDN; esses recursos precisam de internet.
